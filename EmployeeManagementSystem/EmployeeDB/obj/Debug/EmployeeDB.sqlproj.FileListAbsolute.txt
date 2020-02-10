@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\bin\Debug\EmployeeDB.dacpac
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\bin\Debug\EmployeeDB.dll
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\bin\Debug\EmployeeDB.pdb
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\obj\Debug\EmployeeDB.sqlprojAssemblyReference.cache
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\obj\Debug\Model.xml
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\obj\Debug\refactor.xml
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\obj\Debug\postdeploy.sql
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\obj\Debug\predeploy.sql
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\obj\Debug\EmployeeDB.dll
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\EmployeeDB\obj\Debug\EmployeeDB.pdb

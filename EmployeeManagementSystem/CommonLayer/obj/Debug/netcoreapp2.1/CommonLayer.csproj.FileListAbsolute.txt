@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.deps.json
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.runtimeconfig.json
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.runtimeconfig.dev.json
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfo.cs
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\User\source\repos\SPA\EmployeeManagementSystem\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.pdb

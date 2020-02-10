@@ -1,0 +1,29 @@
+﻿
+<form ng-app="myApp" ng-controller="AddEmployeeController">
+    <div class="container" style="width:550px">
+        <h2>User Registraion Form</h2>
+    </div>
+
+    <label for="fullName">Full Name: </label><br />
+    <input type="text" id="fullName" placeholder="Enter Full Name " ng-model="newEmployee.fullName" required autofocus /> <br />
+
+    <label for="designation">Designation:  </label><br />
+    <input type="text" id="designation" placeholder="Enter Designation " ng-model="newEmployee.designation" required autofocus><br />
+
+    <label for="slary"> Salary:  </label><br />
+    <input type="text" id="salary" placeholder="Enter Salary " ng-model="newEmployee.salary" required autofocus><br />
+
+    <label for="email"> Email:  </label><br />
+    <input type="email" id="email" placeholder="Enter Email " ng-model="newEmployee.email" required autofocus><br />
+
+    <label for="password"> Password:  </label><br />
+    <input type="password" id="password" placeholder="Enter Password " ng-model="newEmployee.password" required autofocus><br />
+
+    <br />
+    <input type="hidden" ng-model="newEmployee.id">
+    <input type="button" value="{{btntext}}" class="btn btn-primary" ng-click="AddEmployee()" />
+
+    <br /><br />
+  
+
+</form>
